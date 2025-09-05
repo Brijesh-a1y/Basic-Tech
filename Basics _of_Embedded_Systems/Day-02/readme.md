@@ -1,1 +1,1 @@
-Day 2
+Setup all the requirement library and online platform for embedded system.
