@@ -10,14 +10,16 @@ Types of Data Analyis-
 
 
 methods-
-
-df.head(3)
-df.tail(5)
-df.sample()
-df.shape
-df.dtype
-df.info()
-df.drop()
-df.describe()
-df.rename(columns={"oldColumn":"newColumn"})
-df.count()
+<br>
+<br>
+df.head(3)<br>
+df.tail(5)<br>
+df.sample()<br>
+df.shape<br>
+df.dtype<br>
+df.info()<br>
+df.drop()<br>
+df.describe()<br>
+df.rename(columns={"oldColumn":"newColumn"})<br>
+df.count()<br>
+df.dropna()
