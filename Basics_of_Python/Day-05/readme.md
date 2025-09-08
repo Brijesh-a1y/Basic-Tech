@@ -22,3 +22,4 @@ df.drop()<br>
 df.describe()<br>
 df.rename(columns={"oldColumn":"newColumn"})<br>
 df.count()<br>
+df.dropna()
