@@ -66,7 +66,7 @@ namespace DLMS_assignment_1
 
             // Class ID for Register object is 3
             ushort classId = 3;
-            byte attributeId = 2; // e.g., value attribute
+            byte attributeId = 2; // value attribute
 
             byte[] apdu = GetRequestApdu.CreateGetRequest(obis, classId, attributeId);
 
