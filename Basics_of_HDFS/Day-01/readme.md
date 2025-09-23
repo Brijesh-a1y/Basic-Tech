@@ -1,2 +1,6 @@
-Task : Create shell script that take username and age from input.
-Output : Hello [username] your age is [age]
+Basic introduction of Hadoop 
+distributed system
+advantage 
+disadvantage
+horizontal scaling -> increase instance
+vertical scaling-> increase the size
