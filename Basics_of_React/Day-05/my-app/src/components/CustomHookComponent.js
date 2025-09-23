@@ -31,7 +31,8 @@ const useFetchJson = (url)=>{
         .catch(error=>setError(error.messgae))
         .finally(()=>{console.log('Ended')})
     }
-    useEffect(getData,[]);
+    useEffect(()=>{
+        getData},[]);
     return {loading,data,error};
 }
 
